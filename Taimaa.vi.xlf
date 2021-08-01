@@ -8,7 +8,7 @@
       <group id="TAIMAA/PROPERTIES/RESOURCES.RESX" datatype="resx">
         <trans-unit id="ButtonJoin" translate="yes" xml:space="preserve">
           <source>Join</source>
-          <target state="new">Join</target>
+          <target state="new">Đăng ký</target>
         </trans-unit>
         <trans-unit id="ButtonLogin" translate="yes" xml:space="preserve">
           <source>Login</source>
@@ -16,339 +16,339 @@
         </trans-unit>
         <trans-unit id="TabCommunityTitle" translate="yes" xml:space="preserve">
           <source>Community</source>
-          <target state="new">Community</target>
+          <target state="new">Cộng đồng</target>
         </trans-unit>
         <trans-unit id="TabFightTitle" translate="yes" xml:space="preserve">
           <source>Fight</source>
-          <target state="new">Fight</target>
+          <target state="new">Đấu tập</target>
         </trans-unit>
         <trans-unit id="TabProgressTitle" translate="yes" xml:space="preserve">
           <source>Progress</source>
-          <target state="new">Progress</target>
+          <target state="new">Thống kê</target>
         </trans-unit>
         <trans-unit id="TabTrainTitle" translate="yes" xml:space="preserve">
           <source>Train</source>
-          <target state="new">Train</target>
+          <target state="new">Bài tập</target>
         </trans-unit>
         <trans-unit id="TabYouTitle" translate="yes" xml:space="preserve">
           <source>You</source>
-          <target state="new">You</target>
+          <target state="new">Tôi</target>
         </trans-unit>
         <trans-unit id="DoBLabelHint" translate="yes" xml:space="preserve">
           <source>Get discount on your birthday</source>
-          <target state="new">Get discount on your birthday</target>
+          <target state="new">Nhận quà tặng cho trong ngày sinh nhật của bạn</target>
         </trans-unit>
         <trans-unit id="EntryEmailHint" translate="yes" xml:space="preserve">
           <source>Email address</source>
-          <target state="new">Email address</target>
+          <target state="new">Email</target>
         </trans-unit>
         <trans-unit id="EntryNameHint" translate="yes" xml:space="preserve">
           <source>How can we call you?</source>
-          <target state="new">How can we call you?</target>
+          <target state="new">Tên của bạn</target>
         </trans-unit>
         <trans-unit id="EntryPasswordHint" translate="yes" xml:space="preserve">
           <source>Password</source>
-          <target state="new">Password</target>
+          <target state="new">Mật khẩu</target>
         </trans-unit>
         <trans-unit id="RegisterViewSubtitle" translate="yes" xml:space="preserve">
           <source>Create your member profile and get first access to the very best of inspiration and community</source>
-          <target state="new">Create your member profile and get first access to the very best of inspiration and community</target>
+          <target state="new">Tạo tài khoản và tham gia vào cộng đồng tập luyện</target>
         </trans-unit>
         <trans-unit id="RegisterViewTitle" translate="yes" xml:space="preserve">
           <source>BECOME A MEMBER</source>
-          <target state="new">BECOME A MEMBER</target>
+          <target state="new">ĐĂNG KÝ THÀNH VIÊN</target>
         </trans-unit>
         <trans-unit id="LabelExercises" translate="yes" xml:space="preserve">
           <source>Exercises</source>
-          <target state="new">Exercises</target>
+          <target state="new">Bài tập</target>
         </trans-unit>
         <trans-unit id="ExerciseTitleBreak" translate="yes" xml:space="preserve">
           <source>Break</source>
-          <target state="new">Break</target>
+          <target state="new">Nghỉ</target>
         </trans-unit>
         <trans-unit id="ButtonBreak" translate="yes" xml:space="preserve">
           <source>Break</source>
-          <target state="new">Break</target>
+          <target state="new">Nghỉ ngơi</target>
         </trans-unit>
         <trans-unit id="ButtonCountdown" translate="yes" xml:space="preserve">
           <source>Count down</source>
-          <target state="new">Count down</target>
+          <target state="new">Đếm ngược</target>
         </trans-unit>
         <trans-unit id="ExerciseTitleHint" translate="yes" xml:space="preserve">
           <source>Enter exercise title...</source>
-          <target state="new">Enter exercise title...</target>
+          <target state="new">Nhập tên bài tập...</target>
         </trans-unit>
         <trans-unit id="ButtonSave" translate="yes" xml:space="preserve">
           <source>Save</source>
-          <target state="new">Save</target>
+          <target state="new">Lưu</target>
         </trans-unit>
         <trans-unit id="ButtonAddBreak" translate="yes" xml:space="preserve">
           <source>+ Add break</source>
-          <target state="new">+ Add break</target>
+          <target state="new">+ Thêm khoảng nghỉ</target>
         </trans-unit>
         <trans-unit id="ButtonAddExercise" translate="yes" xml:space="preserve">
           <source>+ Add exercise</source>
-          <target state="new">+ Add exercise</target>
+          <target state="new">+ Thêm bài tập</target>
         </trans-unit>
         <trans-unit id="ExerciseListHeader" translate="yes" xml:space="preserve">
           <source>Exercises</source>
-          <target state="new">Exercises</target>
+          <target state="new">Bài tập</target>
         </trans-unit>
         <trans-unit id="ExerciseListHeaderHint" translate="yes" xml:space="preserve">
           <source>Hold item to reorder</source>
-          <target state="new">Hold item to reorder</target>
+          <target state="new">Giữ để sấp xếp bài tập</target>
         </trans-unit>
         <trans-unit id="ExerciseRound" translate="yes" xml:space="preserve">
           <source>Round</source>
-          <target state="new">Round</target>
+          <target state="new">Set</target>
         </trans-unit>
         <trans-unit id="ExerciseTotalDuration" translate="yes" xml:space="preserve">
           <source>Total Duration</source>
-          <target state="new">Total Duration</target>
+          <target state="new">Tổng thời gian</target>
         </trans-unit>
         <trans-unit id="ExerciseTotalExercises" translate="yes" xml:space="preserve">
           <source>Total Exercises</source>
-          <target state="new">Total Exercises</target>
+          <target state="new">Tổng bài tập</target>
         </trans-unit>
         <trans-unit id="ButtonDelete" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="new">Xoá</target>
         </trans-unit>
         <trans-unit id="ButtonEdit" translate="yes" xml:space="preserve">
           <source>Edit</source>
-          <target state="new">Edit</target>
+          <target state="new">Sửa</target>
         </trans-unit>
         <trans-unit id="ButtonTapToStart" translate="yes" xml:space="preserve">
           <source>Tap to Start</source>
-          <target state="new">Tap to Start</target>
+          <target state="new">Bắt đầu</target>
         </trans-unit>
         <trans-unit id="ExerciseDuration" translate="yes" xml:space="preserve">
           <source>Duration</source>
-          <target state="new">Duration</target>
+          <target state="new">Khoảng thời gian</target>
         </trans-unit>
         <trans-unit id="ExerciseRounds" translate="yes" xml:space="preserve">
           <source>Rounds</source>
-          <target state="new">Rounds</target>
+          <target state="new">Set</target>
         </trans-unit>
         <trans-unit id="LabelInstruction" translate="yes" xml:space="preserve">
           <source>Instruction</source>
-          <target state="new">Instruction</target>
+          <target state="new">Ghi chú và hướng dẫn</target>
         </trans-unit>
         <trans-unit id="TimerReady" translate="yes" xml:space="preserve">
           <source>Ready</source>
-          <target state="new">Ready</target>
+          <target state="new">Chuẩn bị</target>
         </trans-unit>
         <trans-unit id="TimerNextRound" translate="yes" xml:space="preserve">
           <source>Next Round</source>
-          <target state="new">Next Round</target>
+          <target state="new">Set kế tiếp</target>
         </trans-unit>
         <trans-unit id="ButtonClose" translate="yes" xml:space="preserve">
           <source>Close</source>
-          <target state="new">Close</target>
+          <target state="new">Đống</target>
         </trans-unit>
         <trans-unit id="ButtonRetry" translate="yes" xml:space="preserve">
           <source>Retry</source>
-          <target state="new">Retry</target>
+          <target state="new">Thử lại</target>
         </trans-unit>
         <trans-unit id="MessageWarning" translate="yes" xml:space="preserve">
           <source>Warning</source>
-          <target state="new">Warning</target>
+          <target state="new">Ghi chú</target>
         </trans-unit>
         <trans-unit id="ButtonNext" translate="yes" xml:space="preserve">
           <source>Next</source>
-          <target state="new">Next</target>
+          <target state="new">Tiếp</target>
         </trans-unit>
         <trans-unit id="EntryCountryHint" translate="yes" xml:space="preserve">
           <source>Your country</source>
-          <target state="new">Your country</target>
+          <target state="new">Quốc gia</target>
         </trans-unit>
         <trans-unit id="ExerciseTotalTime" translate="yes" xml:space="preserve">
           <source>Total time</source>
-          <target state="new">Total time</target>
+          <target state="new">Tổng thời gian</target>
         </trans-unit>
         <trans-unit id="LabelFinished" translate="yes" xml:space="preserve">
           <source>Finished</source>
-          <target state="new">Finished</target>
+          <target state="new">Hoàn tất</target>
         </trans-unit>
         <trans-unit id="ButtonHintT2p" translate="yes" xml:space="preserve">
           <source>Tap to Pause</source>
-          <target state="new">Tap to Pause</target>
+          <target state="new">Chạm để tạm nghỉ</target>
         </trans-unit>
         <trans-unit id="ButtonHintT2s" translate="yes" xml:space="preserve">
           <source>Tap to Start</source>
-          <target state="new">Tap to Start</target>
+          <target state="new">Chạm để bắt đầu</target>
         </trans-unit>
         <trans-unit id="LabelElapsed" translate="yes" xml:space="preserve">
           <source>Elapsed</source>
-          <target state="new">Elapsed</target>
+          <target state="new">Thời gian còn lại</target>
         </trans-unit>
         <trans-unit id="LabelNextExercise" translate="yes" xml:space="preserve">
           <source>Next exercise</source>
-          <target state="new">Next exercise</target>
+          <target state="new">Bài tập kế tiếp</target>
         </trans-unit>
         <trans-unit id="LoginFacebookButton" translate="yes" xml:space="preserve">
           <source>Continute with Facebook</source>
-          <target state="new">Continute with Facebook</target>
+          <target state="new">Đăng nhập bằng Facebook</target>
         </trans-unit>
         <trans-unit id="LoginAppleButton" translate="yes" xml:space="preserve">
           <source>Continute with Apple</source>
-          <target state="new">Continute with Apple</target>
+          <target state="new">Đăng nhập bằng Apple</target>
         </trans-unit>
         <trans-unit id="LoginGoogleButton" translate="yes" xml:space="preserve">
           <source>Continute with Google</source>
-          <target state="new">Continute with Google</target>
+          <target state="new">Đăng nhập bằng Google</target>
         </trans-unit>
         <trans-unit id="ButtonSkip" translate="yes" xml:space="preserve">
           <source>Skip</source>
-          <target state="new">Skip</target>
+          <target state="new">Bỏ qua</target>
         </trans-unit>
         <trans-unit id="EntryNameInvalid" translate="yes" xml:space="preserve">
           <source>Please enter a valid name</source>
-          <target state="new">Please enter a valid name</target>
+          <target state="new">Vui lòng nhập tên đúng</target>
         </trans-unit>
         <trans-unit id="ButtonJoinUs" translate="yes" xml:space="preserve">
           <source>Join us</source>
-          <target state="new">Join us</target>
+          <target state="new">Tham gia</target>
         </trans-unit>
         <trans-unit id="LabelAlreadyMember" translate="yes" xml:space="preserve">
           <source>Already a member?</source>
-          <target state="new">Already a member?</target>
+          <target state="new">Bạn đã là một thành viên?</target>
         </trans-unit>
         <trans-unit id="LabelSignIn" translate="yes" xml:space="preserve">
           <source>Sign In</source>
-          <target state="new">Sign In</target>
+          <target state="new">Đăng nhập</target>
         </trans-unit>
         <trans-unit id="SignInPrivacyHint" translate="yes" xml:space="preserve">
           <source>By creating an account, you agree to our Privacy Policy and Terms of Use</source>
-          <target state="new">By creating an account, you agree to our Privacy Policy and Terms of Use</target>
+          <target state="new">Với việc tạo tài khoản, bạn đã đồng ý với chính sách bảo mật và điều khoản sử dụng của ứng dụng</target>
         </trans-unit>
         <trans-unit id="LabelWelcome" translate="yes" xml:space="preserve">
           <source>Welcome</source>
-          <target state="new">Welcome</target>
+          <target state="new">Chào bạn</target>
         </trans-unit>
         <trans-unit id="LabelYouIn" translate="yes" xml:space="preserve">
           <source>, you're in!</source>
-          <target state="new">, you're in!</target>
+          <target state="new">, Bạn đã đăng ký thành công!</target>
         </trans-unit>
         <trans-unit id="LabelGetStarted" translate="yes" xml:space="preserve">
           <source>Get Started</source>
-          <target state="new">Get Started</target>
+          <target state="new">Bắt đầu nào!</target>
         </trans-unit>
         <trans-unit id="LabelGenderHint" translate="yes" xml:space="preserve">
           <source>Help us tailor the experience to you</source>
-          <target state="new">Help us tailor the experience to you</target>
+          <target state="new">Các câu hỏi sau sẽ giúp chúng tôi hiểu hơn về bạn</target>
         </trans-unit>
         <trans-unit id="LabelGenderFemale" translate="yes" xml:space="preserve">
           <source>Female</source>
-          <target state="new">Female</target>
+          <target state="new">Nữ</target>
         </trans-unit>
         <trans-unit id="LabelGenderMale" translate="yes" xml:space="preserve">
           <source>Male</source>
-          <target state="new">Male</target>
+          <target state="new">Nam</target>
         </trans-unit>
         <trans-unit id="LabelLevelHint" translate="yes" xml:space="preserve">
           <source>How many times do you workout per week?</source>
-          <target state="new">How many times do you workout per week?</target>
+          <target state="new">Bạn có tập thường xuyên không?</target>
         </trans-unit>
         <trans-unit id="LabelLevelHintDesc" translate="yes" xml:space="preserve">
           <source>We'll use this to recomend workouts for you to try</source>
-          <target state="new">We'll use this to recomend workouts for you to try</target>
+          <target state="new">Chúng tôi sẽ dùng các thông tin bạn cung cấp để cá nhân hoá bài tập cho bạn</target>
         </trans-unit>
         <trans-unit id="LabelLevelRusty" translate="yes" xml:space="preserve">
           <source>Rusty 0 - 1 Workouts</source>
-          <target state="new">Rusty 0 - 1 Workouts</target>
+          <target state="new">Ít tập 0 - 1 lần mỗi tuần</target>
         </trans-unit>
         <trans-unit id="LabelLevelRegular" translate="yes" xml:space="preserve">
           <source>Regular 2 - 4 Workouts</source>
-          <target state="new">Regular 2 - 4 Workouts</target>
+          <target state="new">Thường xuyên 2 - 4 lần mỗi tuần</target>
         </trans-unit>
         <trans-unit id="LabelLevelHardcode" translate="yes" xml:space="preserve">
           <source>Hardcore 5+ Workouts</source>
-          <target state="new">Hardcore 5+ Workouts</target>
+          <target state="new">Cường độ cao 5+ lần mỗi tuần</target>
         </trans-unit>
         <trans-unit id="LabelStatsHint" translate="yes" xml:space="preserve">
           <source>Your stats?</source>
-          <target state="new">Your stats?</target>
+          <target state="new">Chỉ số cơ thể?</target>
         </trans-unit>
         <trans-unit id="LabelStatsHintDesc" translate="yes" xml:space="preserve">
           <source>We'll use this to recomend workouts for you to try</source>
-          <target state="new">We'll use this to recomend workouts for you to try</target>
+          <target state="new">Chúng tôi sẽ dùng thông tin này để cá nhân hoá bài tập</target>
         </trans-unit>
         <trans-unit id="LabelWeightHint" translate="yes" xml:space="preserve">
           <source>Weight</source>
-          <target state="new">Weight</target>
+          <target state="new">Cân nặng</target>
         </trans-unit>
         <trans-unit id="LabelHeightHint" translate="yes" xml:space="preserve">
           <source>Height</source>
-          <target state="new">Height</target>
+          <target state="new">Chiều cao</target>
         </trans-unit>
         <trans-unit id="LabelMetric" translate="yes" xml:space="preserve">
           <source>Metric</source>
-          <target state="new">Metric</target>
+          <target state="new">Hệ đo lường tiêu chuẩn (mét/kg)</target>
         </trans-unit>
         <trans-unit id="LabelImperial" translate="yes" xml:space="preserve">
           <source>Imperial</source>
-          <target state="new">Imperial</target>
+          <target state="new">Hệ đo lường khác (inches/lbs)</target>
         </trans-unit>
         <trans-unit id="LabelWelcomeDesc" translate="yes" xml:space="preserve">
           <source>To make sure your experience is the best it can be, we need to get to know you a little better.</source>
-          <target state="new">To make sure your experience is the best it can be, we need to get to know you a little better.</target>
+          <target state="new">Để tối ưu hoá trải nghiệm, chúng tôi muốn biết thêm về bạn.</target>
         </trans-unit>
         <trans-unit id="LabelAge" translate="yes" xml:space="preserve">
           <source>Age</source>
-          <target state="new">Age</target>
+          <target state="new">Độ tuổi</target>
         </trans-unit>
         <trans-unit id="LabelAgeYear" translate="yes" xml:space="preserve">
           <source>Year</source>
-          <target state="new">Year</target>
+          <target state="new">Năm</target>
         </trans-unit>
         <trans-unit id="LabelGender" translate="yes" xml:space="preserve">
           <source>Gender</source>
-          <target state="new">Gender</target>
+          <target state="new">Giới tính</target>
         </trans-unit>
         <trans-unit id="LabelExercise" translate="yes" xml:space="preserve">
           <source>Exercise</source>
-          <target state="new">Exercise</target>
+          <target state="new">Bài tập</target>
         </trans-unit>
         <trans-unit id="SignInAgreement" translate="yes" xml:space="preserve">
           <source>By logging in, you agree to our Privacy Policy and Terms of use</source>
-          <target state="new">By logging in, you agree to our Privacy Policy and Terms of use</target>
+          <target state="new">Khi đăng nhập, bạn đồng ý với chính sách bảo mật và điều khoản sử dụng của ứng dụng</target>
         </trans-unit>
         <trans-unit id="ButtonLogout" translate="yes" xml:space="preserve">
           <source>Log out</source>
-          <target state="new">Log out</target>
+          <target state="new">Đăng xuất</target>
         </trans-unit>
         <trans-unit id="TimeHrs" translate="yes" xml:space="preserve">
           <source>Hrs</source>
-          <target state="new">Hrs</target>
+          <target state="new">Giờ</target>
         </trans-unit>
         <trans-unit id="TimeMins" translate="yes" xml:space="preserve">
           <source>Mins</source>
-          <target state="new">Mins</target>
+          <target state="new">Phút</target>
         </trans-unit>
         <trans-unit id="TimeSecs" translate="yes" xml:space="preserve">
           <source>Secs</source>
-          <target state="new">Secs</target>
+          <target state="new">Giây</target>
         </trans-unit>
         <trans-unit id="ExerciseRest" translate="yes" xml:space="preserve">
           <source>Rest between exercises</source>
-          <target state="new">Rest between exercises</target>
+          <target state="new">Thời gian nghỉ</target>
         </trans-unit>
         <trans-unit id="LabelNoteInstruction" translate="yes" xml:space="preserve">
           <source>Note and Instruction</source>
-          <target state="new">Note and Instruction</target>
+          <target state="new">Ghi chú</target>
         </trans-unit>
         <trans-unit id="TrainHint" translate="yes" xml:space="preserve">
           <source>Choose one workout to start</source>
-          <target state="new">Choose one workout to start</target>
+          <target state="new">Chọn một bài tập để bắt đầu</target>
         </trans-unit>
         <trans-unit id="TrainLast7Days" translate="yes" xml:space="preserve">
           <source>Last 7 days</source>
-          <target state="new">Last 7 days</target>
+          <target state="new">Trong 7 ngày</target>
         </trans-unit>
         <trans-unit id="TrainTodayLink" translate="yes" xml:space="preserve">
           <source>Activities</source>
-          <target state="new">Activities</target>
+          <target state="new">Thống kê</target>
         </trans-unit>
         <trans-unit id="LabelWorkouts" translate="yes" xml:space="preserve">
           <source>Workouts</source>
@@ -356,19 +356,19 @@
         </trans-unit>
         <trans-unit id="TabTodayTitle" translate="yes" xml:space="preserve">
           <source>Activities</source>
-          <target state="new">Activities</target>
+          <target state="new">Gần nhất</target>
         </trans-unit>
         <trans-unit id="LabelDetail" translate="yes" xml:space="preserve">
           <source>Detail</source>
-          <target state="new">Detail</target>
+          <target state="new">Chi tiết</target>
         </trans-unit>
         <trans-unit id="LabelDone" translate="yes" xml:space="preserve">
           <source>Done</source>
-          <target state="new">Done</target>
+          <target state="new">Hoàn tất</target>
         </trans-unit>
         <trans-unit id="ButtonCancel" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state="new">Cancel</target>
+          <target state="new">Hủy</target>
         </trans-unit>
         <trans-unit id="ButtonOk" translate="yes" xml:space="preserve">
           <source>OK</source>
@@ -376,7 +376,7 @@
         </trans-unit>
         <trans-unit id="DialogCancelMessage" translate="yes" xml:space="preserve">
           <source>Do you really want to cancel your workout?</source>
-          <target state="new">Do you really want to cancel your workout?</target>
+          <target state="new">Bạn muốn dừng bài tập?</target>
         </trans-unit>
         <trans-unit id="DialogCancelTitle" translate="yes" xml:space="preserve">
           <source>Workout</source>
@@ -384,97 +384,97 @@
         </trans-unit>
         <trans-unit id="ButtonNo" translate="yes" xml:space="preserve">
           <source>No</source>
-          <target state="new">No</target>
+          <target state="new">Không</target>
         </trans-unit>
         <trans-unit id="ButtonYes" translate="yes" xml:space="preserve">
           <source>Yes</source>
-          <target state="new">Yes</target>
+          <target state="new">Đúng</target>
         </trans-unit>
         <trans-unit id="DialogDeleteMessage" translate="yes" xml:space="preserve">
           <source>Do you really want to delete your workout?</source>
-          <target state="new">Do you really want to delete your workout?</target>
+          <target state="new">Bạn muốn xoá Workout này?</target>
         </trans-unit>
         <trans-unit id="DialogDeleteTitle" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="new">Xoá</target>
         </trans-unit>
         <trans-unit id="ButtonStart" translate="yes" xml:space="preserve">
           <source>Start</source>
-          <target state="new">Start</target>
+          <target state="new">Bắt đầu</target>
         </trans-unit>
         <trans-unit id="LabelRestInterval" translate="yes" xml:space="preserve">
           <source>Rest interval</source>
-          <target state="new">Rest interval</target>
+          <target state="new">Thời gian nghỉ</target>
         </trans-unit>
         <trans-unit id="LabelTimePerRound" translate="yes" xml:space="preserve">
           <source>Time per round</source>
-          <target state="new">Time per round</target>
+          <target state="new">Mỗi hiệp</target>
         </trans-unit>
         <trans-unit id="LabelProgressEmpty" translate="yes" xml:space="preserve">
           <source>Try some workouts!
 You will see your activities shown here</source>
-          <target state="new">Try some workouts!
-You will see your activities shown here</target>
+          <target state="new">Hãy thử một vài bài tập!
+Các thông kê sẽ hiện ở đây</target>
         </trans-unit>
         <trans-unit id="LabelSameCategory" translate="yes" xml:space="preserve">
           <source>Same category</source>
-          <target state="new">Same category</target>
+          <target state="new">Cùng thể loại</target>
         </trans-unit>
         <trans-unit id="LabelSpotlight" translate="yes" xml:space="preserve">
           <source>Spotlight</source>
-          <target state="new">Spotlight</target>
+          <target state="new">Gợi ý</target>
         </trans-unit>
         <trans-unit id="LabelBodyAnaResult" translate="yes" xml:space="preserve">
           <source>Body Analysis Results</source>
-          <target state="new">Body Analysis Results</target>
+          <target state="new">Phân tích InBody</target>
         </trans-unit>
         <trans-unit id="LabelKeepUp" translate="yes" xml:space="preserve">
           <source>Keep up good work!</source>
-          <target state="new">Keep up good work!</target>
+          <target state="new">Tiếp tục cố gắng nhé!</target>
         </trans-unit>
         <trans-unit id="LabelPer100" translate="yes" xml:space="preserve">
           <source>/100 points</source>
-          <target state="new">/100 points</target>
+          <target state="new">/100 Điểm</target>
         </trans-unit>
         <trans-unit id="LabelTotalWorkoutTime" translate="yes" xml:space="preserve">
           <source>Total workout time</source>
-          <target state="new">Total workout time</target>
+          <target state="new">Tổng thời gian tập</target>
         </trans-unit>
         <trans-unit id="LabelInputYourScore" translate="yes" xml:space="preserve">
           <source>INPUT YOUR SCORE</source>
-          <target state="new">INPUT YOUR SCORE</target>
+          <target state="new">NHẬP CÁC CHỈ SỐ</target>
         </trans-unit>
         <trans-unit id="LabelBirthday" translate="yes" xml:space="preserve">
           <source>Birthday</source>
-          <target state="new">Birthday</target>
+          <target state="new">Sinh nhật</target>
         </trans-unit>
         <trans-unit id="LabelCountry" translate="yes" xml:space="preserve">
           <source>Country</source>
-          <target state="new">Country</target>
+          <target state="new">Quốc gia</target>
         </trans-unit>
         <trans-unit id="LabelLanguage" translate="yes" xml:space="preserve">
           <source>Language</source>
-          <target state="new">Language</target>
+          <target state="new">Ngôn ngữ</target>
         </trans-unit>
         <trans-unit id="LabelProfileName" translate="yes" xml:space="preserve">
           <source>Full name</source>
-          <target state="new">Full name</target>
+          <target state="new">Tên</target>
         </trans-unit>
         <trans-unit id="LabelUnit" translate="yes" xml:space="preserve">
           <source>Unit</source>
-          <target state="new">Unit</target>
+          <target state="new">Đơn vị</target>
         </trans-unit>
         <trans-unit id="ButtonStop" translate="yes" xml:space="preserve">
           <source>Stop</source>
-          <target state="new">Stop</target>
+          <target state="new">Dừng</target>
         </trans-unit>
         <trans-unit id="LabelStatusNotStart" translate="yes" xml:space="preserve">
           <source>Not start</source>
-          <target state="new">Not start</target>
+          <target state="new">Chưa tập</target>
         </trans-unit>
         <trans-unit id="LabelTimerSwitch" translate="yes" xml:space="preserve">
           <source>You can choose an exercise to switch</source>
-          <target state="new">You can choose an exercise to switch</target>
+          <target state="new">Chọn để chuyển bài tập</target>
         </trans-unit>
       </group>
     </body>
