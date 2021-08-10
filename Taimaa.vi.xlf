@@ -478,41 +478,41 @@ Các thông kê sẽ hiện ở đây</target>
         </trans-unit>
         <trans-unit id="LabelReadyTime" translate="yes" xml:space="preserve">
           <source>Default ready time (sec)</source>
-          <target state="new">Default ready time (sec)</target>
+          <target state="new">Thời gian chuẩn bị mặc định (s)</target>
         </trans-unit>
         <trans-unit id="LabelRestTime" translate="yes" xml:space="preserve">
           <source>Default rest time (sec)</source>
-          <target state="new">Default rest time (sec)</target>
+          <target state="new">Thời gian nghỉ mặc định (s)</target>
         </trans-unit>
         <trans-unit id="LabelWorkSetting" translate="yes" xml:space="preserve">
           <source>Workout Settings</source>
-          <target state="new">Workout Settings</target>
+          <target state="new">Cài đặt bài tập</target>
         </trans-unit>
         <trans-unit id="LabelStateActive" translate="yes" xml:space="preserve">
           <source>Active</source>
-          <target state="new">Active</target>
+          <target state="new">Đang tập</target>
         </trans-unit>
         <trans-unit id="LabelStateDone" translate="yes" xml:space="preserve">
           <source>Done</source>
-          <target state="new">Done</target>
+          <target state="new">Xong</target>
         </trans-unit>
         <trans-unit id="LabelStateSkip" translate="yes" xml:space="preserve">
           <source>Skip</source>
-          <target state="new">Skip</target>
+          <target state="new">Đã bỏ qua</target>
         </trans-unit>
         <trans-unit id="DialogAreYou" translate="yes" xml:space="preserve">
           <source>Are you sure?</source>
-          <target state="new">Are you sure?</target>
+          <target state="new">Bạn có chắc chắn?</target>
         </trans-unit>
         <trans-unit id="DialogGiveUp" translate="yes" xml:space="preserve">
           <source>YOU WANT TO GIVE UP!</source>
-          <target state="new">YOU WANT TO GIVE UP!</target>
+          <target state="new">BẠN MUỐN DỪNG TẬP!</target>
         </trans-unit>
         <trans-unit id="LabelTrainEmpty" translate="yes" xml:space="preserve">
           <source>Create your own workout to start!
-or try pre-setup workout in</source>
-          <target state="new">Create your own workout to start!
-or try pre-setup workout in</target>
+or try pre-setup workout in community tab</source>
+          <target state="new">Bắt đầu với việc tạo bài tập mới!
+hoặc thử các bài tập trong mục Cộng đồng </target>
         </trans-unit>
       </group>
     </body>
