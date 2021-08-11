@@ -284,11 +284,11 @@
         </trans-unit>
         <trans-unit id="LabelMetric" translate="yes" xml:space="preserve">
           <source>Metric</source>
-          <target state="translated">Hệ đo lường tiêu chuẩn (mét/kg)</target>
+          <target state="translated">cm/kg</target>
         </trans-unit>
         <trans-unit id="LabelImperial" translate="yes" xml:space="preserve">
           <source>Imperial</source>
-          <target state="translated">Hệ đo lường khác (inches/lbs)</target>
+          <target state="translated">inch/lbs</target>
         </trans-unit>
         <trans-unit id="LabelWelcomeDesc" translate="yes" xml:space="preserve">
           <source>To make sure your experience is the best it can be, we need to get to know you a little better.</source>
@@ -299,8 +299,8 @@
           <target state="translated">Độ tuổi</target>
         </trans-unit>
         <trans-unit id="LabelAgeYear" translate="yes" xml:space="preserve">
-          <source>Year</source>
-          <target state="translated">Năm</target>
+          <source></source>
+          <target state="translated"></target>
         </trans-unit>
         <trans-unit id="LabelGender" translate="yes" xml:space="preserve">
           <source>Gender</source>
@@ -352,7 +352,7 @@
         </trans-unit>
         <trans-unit id="LabelWorkouts" translate="yes" xml:space="preserve">
           <source>Workouts</source>
-          <target state="new">Workouts</target>
+          <target state="new">Bài tập</target>
         </trans-unit>
         <trans-unit id="TabTodayTitle" translate="yes" xml:space="preserve">
           <source>Activities</source>
@@ -478,11 +478,11 @@ Các thông kê sẽ hiện ở đây</target>
         </trans-unit>
         <trans-unit id="LabelReadyTime" translate="yes" xml:space="preserve">
           <source>Default ready time (sec)</source>
-          <target state="new">Thời gian chuẩn bị mặc định (s)</target>
+          <target state="new">Thời gian chuẩn bị(s)</target>
         </trans-unit>
         <trans-unit id="LabelRestTime" translate="yes" xml:space="preserve">
           <source>Default rest time (sec)</source>
-          <target state="new">Thời gian nghỉ mặc định (s)</target>
+          <target state="new">Thời gian nghỉ (s)</target>
         </trans-unit>
         <trans-unit id="LabelWorkSetting" translate="yes" xml:space="preserve">
           <source>Workout Settings</source>
